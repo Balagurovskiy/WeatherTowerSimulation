@@ -8,5 +8,5 @@ its posible to use hashed md5 input file  </br>
 <b>output file - simulation.txt </b></br>
 contains simulation log, affect of generated weather conditions on scenario objects </br>
 </br>
-simple uml representation :
-<img src="avaj_uml.jpg" >
+<a href="avaj_uml.jpg"> -> simple uml representation</a>
+
