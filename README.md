@@ -9,4 +9,4 @@ its posible to use hashed md5 input file  </br>
 contains simulation log, affect of generated weather conditions on scenario objects </br>
 </br>
 simple uml representation :
-<img src="avaj_uml.jpg" width="500" height="500">
+<img src="avaj_uml.jpg" width="700" height="500">
